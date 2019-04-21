@@ -1,0 +1,2 @@
+def someFx():
+    commonFx()
